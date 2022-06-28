@@ -1,0 +1,14 @@
+{
+  "name": "quizwiz",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Colin M Foster",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.141.0"
+  },
+  "description": ""
+}
