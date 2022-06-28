@@ -49,7 +49,7 @@ canvas {
   /* justify-content: center; */
   /* align-items: center; */
   /* text-align: center; */
-  background-color: url('.three');
+  background-color: url('three.js');
   border-radius: 20px;
 }
 .btn {

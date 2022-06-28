@@ -1,14 +1,18 @@
 {
   "name": "quizwiz",
   "version": "1.0.0",
-  "main": "script.js",
+  "default": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
   },
   "author": "Colin M Foster",
   "license": "ISC",
   "dependencies": {
     "three": "^0.141.0"
   },
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.6.2"
+  }
 }
